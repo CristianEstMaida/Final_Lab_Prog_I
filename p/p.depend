@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1613060040 source:c:\users\crist\onedrive\escritorio\p\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1613079676 c:\users\crist\onedrive\escritorio\p\linkedlist.h
+
+1613060268 source:c:\users\crist\onedrive\escritorio\p\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"envios.h"
+	"menus.h"
+
+1613081965 c:\users\crist\onedrive\escritorio\p\controller.h
+
+1613081637 c:\users\crist\onedrive\escritorio\p\envios.h
+
+1613059461 c:\users\crist\onedrive\escritorio\p\menus.h
+
+1613082119 source:c:\users\crist\onedrive\escritorio\p\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	"LinkedList.h"
+	"Controller.h"
+	"gets.h"
+	"envios.h"
+
+1613060802 c:\users\crist\onedrive\escritorio\p\gets.h
+
+1613060882 source:c:\users\crist\onedrive\escritorio\p\gets.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"gets.h"
+
+1613082359 source:c:\users\crist\onedrive\escritorio\p\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"menus.h"
+	"Controller.h"
+	"envios.h"
+
+1613083335 c:\users\crist\onedrive\escritorio\p\parser.h
+
+1613081932 source:c:\users\crist\onedrive\escritorio\p\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"envios.h"
+
+1613082590 source:c:\users\crist\onedrive\escritorio\p\envios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"envios.h"
+	"LinkedList.h"
+	"gets.h"
+	"Controller.h"
+
